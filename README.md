@@ -13,6 +13,10 @@ Ini adalah tautan terpusat untuk memantau partisipasi dan keaktifan mahasiswa se
 
 **[Buka Lembar Monitoring Partisipasi Mahasiswa](https://untirtaacid-my.sharepoint.com/:x:/g/personal/ferdian_bangkit_untirta_ac_id/EeBD4ENEGy1CokDJeWVoeuwBogPeIWoWLx2SgbBmzZgBnA?e=zeWAgY)**
 
+
+**[Buka Referensi Buku](https://drive.google.com/drive/folders/1CAclix1T09hWmSjTMDw9pJ5q3A0S-GlX)**
+
+
 ## ✨ Isi Repositori
 
 - **Modul & Materi PDF**: Materi presentasi lengkap untuk setiap pertemuan, disusun secara sistematis.
